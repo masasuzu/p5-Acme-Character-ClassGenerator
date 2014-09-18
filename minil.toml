@@ -1,0 +1,4 @@
+name = "Acme-Character-ClassGenerator"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
